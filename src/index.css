@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  display: grid;
+  grid-template-rows: auto 1fr auto; /* Header, Main, Footer의 크기 비율 조정 */
+  height: 100vh; /* 전체 화면 높이로 설정 */
+}
+
+.header, .footer {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.main {
+  background-color: lightblue;
+  padding: 20px;
+  overflow-y: auto; /* 내용이 넘칠 경우 스크롤 표시 */
+}
