@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Header from './components/Header';
+import Header from './layouts/Header';
 import Router from "./components/Router";
-import Footer from "./components/Footer";
+import Footer from "./layouts/Footer";
 
 
 import "./App.css";
