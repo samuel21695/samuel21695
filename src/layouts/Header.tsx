@@ -3,7 +3,7 @@
 const Header = () => {
   return (
     <header className="header">
-    <a href="/projects">Projects</a>
+      <a href="/projects">Projects</a>
     </header>
   )
 }
