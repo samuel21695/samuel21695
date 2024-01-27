@@ -1,8 +1,10 @@
+
+
 const Header = () => {
   return (
-    <>
-    test
-    </>
+    <header>
+    <a href="/projects">Projects</a>
+    </header>
   )
 }
 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Header from './layouts/Header';
-import Router from "./components/Router";
+import Router from "./layouts/Router";
 import Footer from "./layouts/Footer";
 
 
