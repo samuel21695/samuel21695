@@ -3,7 +3,7 @@ import "./App.css";
 const App = () => {
   return (
     <div>
-      테스트으ㅡ응
+      테스트
     </div>
   );
 };
