@@ -4,7 +4,7 @@ import Header from './layouts/Header';
 import Router from "./layouts/Router";
 import Footer from "./layouts/Footer";
 
-import Main from './components/main';
+import Main from './components/main/main';
 
 import "./App.css";
 
