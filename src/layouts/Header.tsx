@@ -2,7 +2,7 @@
 
 const Header = () => {
   return (
-    <header>
+    <header className="header">
     <a href="/projects">Projects</a>
     </header>
   )
